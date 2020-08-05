@@ -1,3 +1,3 @@
 # Candy
 
-- Maintance a website to advertise candy.
+### Maintance a website to advertise candy.
